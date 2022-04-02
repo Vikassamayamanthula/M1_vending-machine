@@ -11,4 +11,7 @@ M1_Vending machine It is very useful to purchase our Fast food with in fraction 
 
 https://app.codiga.io/public/project/32400/M1_vending-machine/dashboard
 https://api.codiga.io/project/32400/status/svg
-https://api.codiga.io/project/32400/score/svg
+https://api.codiga.io/project/32400/score/svg[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c0a3a0beba724f998618c300f4d6d3ea)]
+
+(https://www.codacy.com/gh/Vikassamayamanthula/M1_vending-machine/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vikassamayamanthula/M1_vending-machine&amp;utm_campaign=Badge_Grade)
+
