@@ -10,3 +10,5 @@ M1_Vending machine It is very useful to purchase our Fast food with in fraction 
 [![cppcheck](https://github.com/Vikassamayamanthula/M1_vending-machine/actions/workflows/Cpp.yml/badge.svg)](https://github.com/Vikassamayamanthula/M1_vending-machine/actions/workflows/Cpp.yml)
 
 https://app.codiga.io/public/project/32400/M1_vending-machine/dashboard
+https://api.codiga.io/project/32400/status/svg
+https://api.codiga.io/project/32400/score/svg
